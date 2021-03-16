@@ -2,5 +2,6 @@ Gem Finder is a [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_a
 
 The red dot is where the robot is located with an arrow indicating the heading of the robot; the blue dot is the estimated location given by SLAM. The grey square is where the gems are located and the black dots are the estimated location of the gems. Once a gem is collected the letter indicating the type of the gem will disappear. Once all targeted gems are collected the goal is reached and the program will halt.
 
+This is a project in CS 7638 Robotics: AI Techniques class.
 
 ![SLAM Gem Finder](/GemFinder/slam_gem_finder.gif "SLAM Gem Finder")]
