@@ -4,4 +4,4 @@ The red dot is where the robot is located with an arrow indicating the heading o
 
 This is a project in CS 7638 Robotics: AI Techniques class.
 
-![SLAM Gem Finder](/GemFinder/slam_gem_finder.gif "SLAM Gem Finder")]
+![SLAM Gem Finder](/GemFinder/slam_gem_finder.gif "SLAM Gem Finder")

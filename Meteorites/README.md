@@ -4,4 +4,4 @@ The grey dots are meteorites, and the red line is laser.
 
 This is a project in CS 7638 Robotics: AI Techniques class.
 
-![Meteorites](/Meteorites/meteorites.gif "Meteorites")]
+![Meteorites](/Meteorites/meteorites.gif "Meteorites")

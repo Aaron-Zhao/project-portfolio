@@ -4,6 +4,6 @@ The black arrows are the particles, the purple circle is the estimation of the g
 
 This is a project in CS 7638 Robotics: AI Techniques class.
 
-![Mars Glider Part 1](/MarsGlider/mars_glider_part1.gif "Mars Glider Part 1")]
+![Mars Glider Part 1](/MarsGlider/mars_glider_part1.gif "Mars Glider Part 1")
 
-![Mars Glider Part 2](/MarsGlider/mars_glider_part2.gif "Mars Glider Part 2")]
+![Mars Glider Part 2](/MarsGlider/mars_glider_part2.gif "Mars Glider Part 2")
